@@ -20,7 +20,7 @@ requires = ["setuptools>=40.9.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "apache_superset"
+name = "liteset"
 description = "A modern, enterprise-ready business intelligence web application"
 readme = "README.md"
 dynamic = ["version", "scripts", "entry-points"]
@@ -28,6 +28,7 @@ requires-python = ">=3.10"
 license = { file="LICENSE.txt" }
 authors = [
     { name = "Apache Software Foundation", email = "dev@superset.apache.org" },
+    { name = "Kirill Nikolaevskiy", email = "me@happykust.dev" },
 ]
 classifiers = [
     "Programming Language :: Python :: 3.10",
@@ -107,7 +108,6 @@ dependencies = [
 ]
 
 [project.optional-dependencies]
-
 athena = ["pyathena[pandas]>=2, <3"]
 aurora-data-api = ["preset-sqlalchemy-aurora-data-api>=0.2.8,<0.3"]
 bigquery = [
@@ -213,8 +213,8 @@ development = [
 ]
 
 [project.urls]
-homepage = "https://superset.apache.org/"
-documentation = "https://superset.apache.org/docs/intro"
+homepage = "https://liteset.happykust.dev/"
+documentation = "https://liteset.happykust.dev/docs/"
 
 
 [tool.isort]
