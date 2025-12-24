@@ -17,16 +17,15 @@ specific language governing permissions and limitations
 under the License.
 -->
 
-# Superset
+# Liteset
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/license/apache-2-0)
 [![Latest Release on Github](https://img.shields.io/github/v/release/apache/superset?sort=semver)](https://github.com/apache/superset/releases/latest)
 [![Build Status](https://github.com/apache/superset/actions/workflows/superset-python-unittest.yml/badge.svg)](https://github.com/apache/superset/actions)
-[![PyPI version](https://badge.fury.io/py/apache_superset.svg)](https://badge.fury.io/py/apache_superset)
+[![PyPI version](https://badge.fury.io/py/liteset.svg)](https://badge.fury.io/py/liteset)
 [![Coverage Status](https://codecov.io/github/apache/superset/coverage.svg?branch=master)](https://codecov.io/github/apache/superset)
-[![PyPI](https://img.shields.io/pypi/pyversions/apache_superset.svg?maxAge=2592000)](https://pypi.python.org/pypi/apache_superset)
-[![Get on Slack](https://img.shields.io/badge/slack-join-orange.svg)](http://bit.ly/join-superset-slack)
-[![Documentation](https://img.shields.io/badge/docs-apache.org-blue.svg)](https://superset.apache.org)
+[![PyPI](https://img.shields.io/pypi/pyversions/liteset.svg?maxAge=2592000)](https://pypi.python.org/pypi/liteset)
+[![Documentation](https://img.shields.io/badge/docs-happykust.dev-blue.svg)](https://liteset.happykust.dev)
 
 <picture width="500">
   <source
@@ -44,7 +43,7 @@ under the License.
 
 A modern, enterprise-ready business intelligence web application.
 
-[**Why Superset?**](#why-superset) |
+[**Why Liteset?**](#why-liteset) |
 [**Supported Databases**](#supported-databases) |
 [**Installation and Configuration**](#installation-and-configuration) |
 [**Release Notes**](https://github.com/apache/superset/blob/master/RELEASING/README.md#release-notes-for-recent-releases) |
